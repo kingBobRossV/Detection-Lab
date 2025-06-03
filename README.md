@@ -21,3 +21,23 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ## Steps
 
 *Ref 1: Network Diagram*
+
+![AD Topology](https://github.com/user-attachments/assets/61fc064b-2f71-48b6-b2d1-2c3b29548361)
+
+*Ref 2: Configuring Splunk Server Static IP*
+
+![Splunk Server IP Config](https://github.com/user-attachments/assets/86f24108-125f-4d2e-a9b0-c32fa5e3db22)
+
+I ran into an issue here where the cloud init wanted to keep reverting back to the dhcp settings after reboot.  I used the command [sudo touch /etc/cloud/cloud-init.disabled] to tell it to stop making changes, then renamed it and made a new configuration file with the [sudo nano /etc/netplan/01-static-ip.yaml] command. 
+
+*Ref 3: Configuring Splunk Server Static IP with new netplan file*
+
+![Splunk Server IP Config new](https://github.com/user-attachments/assets/c8055cca-4a64-46c5-80d3-b9ea023d2aa8)
+
+After doing that and rebooting, I was able to confirm connection to the splunk server from the Windows 10 machine
+
+*Ref 4: Confirming connection to splunk server from Windows machine via web browser*
+
+![Confirming Splunk login after IP configuration](https://github.com/user-attachments/assets/7cf43502-0e5e-437a-8339-52055855425e)
+
+
