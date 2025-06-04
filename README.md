@@ -48,3 +48,6 @@ After doing that and rebooting, I was able to confirm connection to the splunk s
 
 ![Confirming Splunk Forwarding to Server](https://github.com/user-attachments/assets/30b16b20-9f62-408d-8a08-9f8986aab8cf)
 
+*Ref 7: Confirming Splunk server is receiving traffic from Target PC AND ADDC into newly created endpoint index*
+
+![Confirming Splunk Forwarding to Server 2](https://github.com/user-attachments/assets/2e83d15c-f745-468e-9821-a841c7807f17)
