@@ -40,4 +40,11 @@ After doing that and rebooting, I was able to confirm connection to the splunk s
 
 ![Confirming Splunk login after IP configuration](https://github.com/user-attachments/assets/7cf43502-0e5e-437a-8339-52055855425e)
 
+*Ref 5: Configuring Splunk Forwarder and Sysmon on Target PC*
+
+![Configuring Sysmon and Splunk Forwarder](https://github.com/user-attachments/assets/5b9ac211-524b-45b7-a91a-ac8e2bc2421b)
+
+*Ref 6: Confirming Splunk server is receiving traffic from Target PC into newly created endpoint index*
+
+![Confirming Splunk Forwarding to Server](https://github.com/user-attachments/assets/30b16b20-9f62-408d-8a08-9f8986aab8cf)
 
