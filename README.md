@@ -55,3 +55,12 @@ After doing that and rebooting, I was able to confirm connection to the splunk s
 *Ref 8: Adding New OU's and Users to the AD Domain*
 
 ![Adding OU and Users to AD Domain](https://github.com/user-attachments/assets/97f579d6-9317-44c1-9ca8-7fea3c31e421)
+
+*Ref 9: Adding Windows 10 PC to Domain*
+
+![Adding Windows 10 PC to Domain](https://github.com/user-attachments/assets/4dc2850b-867a-4970-b41c-8db0e03c3a1f)
+
+*Ref 10: Confirming New User can log in to the New Domain*
+
+![Confirming New User can sign into domain](https://github.com/user-attachments/assets/06cecacb-4fc8-47d1-a7a9-b4553d2a3b87)
+
