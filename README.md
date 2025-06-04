@@ -51,3 +51,7 @@ After doing that and rebooting, I was able to confirm connection to the splunk s
 *Ref 7: Confirming Splunk server is receiving traffic from Target PC AND ADDC into newly created endpoint index*
 
 ![Confirming Splunk Forwarding to Server 2](https://github.com/user-attachments/assets/2e83d15c-f745-468e-9821-a841c7807f17)
+
+*Ref 8: Adding New OU's and Users to the AD Domain*
+
+![Adding OU and Users to AD Domain](https://github.com/user-attachments/assets/97f579d6-9317-44c1-9ca8-7fea3c31e421)
